@@ -1,0 +1,39 @@
+x Operadores relacionais [Comparação]
+%  >, <, >=, <=, ==, != diferença
+
+x constantes
+% 10 != 5
+
+x variáveis
+! const - imutável  //let - mutável   //var - mutável-global
+% let n1 = 10; let n2 = 5
+% n1 < n2
+
+
+
+x Estrutura de decisão
+% Simples => if
+% Composta => if, else
+% Aninhada ou encadeada => if (){ if } ou/e if () { else }
+x Estrutura condicional
+
+
+x Desvio de fluxo
+
+% Elabore um progra em JS que solicita ao usuário informar sua idade e xibe na tela se este é maior ou menor de idade.
+ const readline = require('readline-sync');
+ let idade = Number(readline.question('Digite a sua idade: \n'));
+
+if(idade < 18){
+  console.log('Você é menor de idade');
+}else{
+  console('Você é maior de idade')
+}
+
+
+ ! \n = new line
+ ! \t = tabulação
+
+
+
+x Condicional
