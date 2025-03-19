@@ -1,0 +1,3 @@
+% sequência de escape
+ 
+"\u" unicode

@@ -1,0 +1,20 @@
+# estrutura de repetição Laços/ loop
+
+% for -> Quando sabemos previamente a quantidade de interações [repetição].
+
+% while -> Quando não sabemos previamente a quantidade de interações [repetição].
+
+! Laço *for* (expressão de inicialização; expressao de teste. incremento)
+
+! let i = 0
+# Se eu quero que começe do 0 ate o 10 --> i=0, i<=10
+
+% Operador atalho/aritmettico de atribuição
+  +=
+  /=
+  -=
+
+! Laço *while*
+  % while (condição) {
+    
+    }
